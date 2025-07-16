@@ -1,8 +1,12 @@
 # 👋 Hi there, I'm Ashikur Rahman (Ashik)
 
-**💻 Web Developer | 🛠 Technical Support Engineer | 🚀 Problem Solver**
+**💻 Web Developer | 🛠 Technical Support Engineer | WordPress, Shopify, Webflow Expert | 🚀 Problem Solver**
 
 I'm a passionate web developer with 5+ years of experience blending frontend development, CMS customization, and technical support. Whether it's building sleek interfaces with React and TailwindCSS or optimizing a WordPress or Shopify theme for performance, I thrive on creating fast, user-friendly digital experiences.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashikrnhq04)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashikrnhq04)
+[![Blogs](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codespoetry.com)
 
 ---
 

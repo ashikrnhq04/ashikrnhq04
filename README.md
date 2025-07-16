@@ -17,7 +17,7 @@ Web Developer with 5+ years of technical support experience and hands-on develop
 | [Vibe Form](https://github.com/ashikrnhq04/VibeForm) | VibeForm is a modern, multi-step job application form built with React, TypeScript, Vite, and ShadCN UI components. It demonstrates advanced form management, validation, and user experience patterns for complex forms. |
 | [Mocker JSON](https://github.com/ashikrnhq04/API-JSON) | A lightweight, custom-built PHP framework for creating REST APIs with support for posts and products. |
 | [FocusedMind](https://github.com/ashikrnhq04/FocusedMind) | Chrome extension to help users stay focused by tracking distractions and guiding productive sessions. Built in pure JavaScript. |
-| [InstaGallery](https://github.com/ashikrnhq04/instagallery)) | A responsive image gallery component built with React, featuring: - Keyboard navigation (ArrowLeft, ArrowRight) - Previous/Next navigation buttons - Optional looping behavior - Clickable image thumbnails - Scrollable thumbnail preview strip - Responsive design and accessibility support |
+| [InstaGallery](https://github.com/ashikrnhq04/instagallery) | A responsive image gallery component built with React, featuring: - Keyboard navigation (ArrowLeft, ArrowRight) - Previous/Next navigation buttons - Optional looping behavior - Clickable image thumbnails - Scrollable thumbnail preview strip - Responsive design and accessibility support |
 
 ---
 

@@ -2,7 +2,7 @@
 
 **💻 Full-Stack Developer | 🛠 Technical Support Engineer | WordPress, Shopify, Webflow Expert | 🚀 Problem Solver**
 
-I'm a passionate web developer with 5+ years of experience blending frontend development, CMS customization, and technical support. Whether it's building sleek interfaces with React and TailwindCSS or optimizing a WordPress or Shopify theme for performance, I thrive on creating fast, user-friendly digital experiences.
+Web Developer with 5+ years of technical support experience and hands-on development skills across frontend and CMS platforms. Proficient in React, Next.js, TailwindCSS, and PHP with experience in state management (Context API, Redux). Skilled in WordPress theme development and Shopify Liquid templating. Experienced in deploying and maintaining modern web applications using Vercel, cPanel hosting, and CI/CD pipelines. Focused on solving technical problems, optimizing performance, and delivering clean, user-friendly interfaces. Hardworking, motivated, passionate and always eager to learn and grow.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashikrnhq04)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashikrnhq04)

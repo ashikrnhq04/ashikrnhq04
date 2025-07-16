@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ashikur (Ashik)
+# 👋 Hi there, I'm Ashikur Rahman (Ashik)
 
 **💻 Web Developer | 🛠 Technical Support Engineer | 🚀 Problem Solver**
 

@@ -33,18 +33,18 @@ Web Developer with 5+ years of technical support experience and hands-on develop
 
 ## 💼 Experience
 
-### 🧑‍💻 Freelance Web Developer  
+### 🧑‍💻 Freelance Web Developer | April'2023 - Present  
 - Designed and developed responsive websites using HTML, CSS, React, Next.js and PHP
 - Built hundreds of websites and e-commerce stores using Shopify, WordPress & Webflow  
 - Leveraged React for interactive features; used Redux/Context API for state management  
 - Focused on performance optimization and cross-browser compatibility  
 
-### 📱 AppPresser Inc — Application Support & Development (Part-Time)  
+### 📱 AppPresser Inc — Application Support & Development (Part-Time, Contractual) | April'2023 - Oct'2023 
 - Engineered and tested mobile apps using proprietary tools  
 - Debugged platform features to ensure device compatibility  
 - Worked collaboratively across teams to improve UX  
 
-### 🌐 WPMU DEV — WordPress Support Super Hero  
+### 🌐 WPMU DEV — WordPress Support Super Hero (Full-time) | Nov'2018 - Feb'2023 
 - Handled 14,000+ live chats and 5,000+ support tickets  
 - Solved plugin, theme, and hosting-related issues with advanced debugging  
 - Worked with global teams to report bugs and enhance documentation  

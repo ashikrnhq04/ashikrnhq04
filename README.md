@@ -27,15 +27,14 @@ Web Developer with 5+ years of technical support experience and hands-on develop
 - Proficient in React, Next.js, TailwindCSS, and PHP  
 - Experienced with Context API & Redux for state management  
 - Skilled in WordPress theme development & Shopify Liquid templating  
-- Strong understanding of CI/CD workflows, Vercel, cPanel hosting  
-- Always motivated, passionate, and eager to learn and grow  
-
+- Strong understanding of CI/CD workflows, Vercel, cPanel hosting
+  
 ---
 
 ## 💼 Experience
 
 ### 🧑‍💻 Freelance Web Developer  
-- Designed and developed responsive websites using HTML, CSS, and JavaScript  
+- Designed and developed responsive websites using HTML, CSS, React, Next.js and PHP
 - Built hundreds of websites and e-commerce stores using Shopify, WordPress & Webflow  
 - Leveraged React for interactive features; used Redux/Context API for state management  
 - Focused on performance optimization and cross-browser compatibility  

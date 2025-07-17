@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ashikur Rahman (Ashik)
 
-**💻 Full-Stack Developer | 🛠 Technical Support Engineer | WordPress, Shopify, Webflow Expert **
+**💻 Full-Stack Developer | 🛠 Technical Support Engineer | WordPress, Shopify, Webflow Expert**
 
 Web Developer with 5+ years of technical support experience and hands-on development skills across frontend and CMS platforms. Proficient in React, Next.js, TailwindCSS, and PHP with experience in state management (Context API, Redux). Skilled in WordPress theme development and Shopify Liquid templating. Experienced in deploying and maintaining modern web applications using Vercel, cPanel hosting, and CI/CD pipelines. Focused on solving technical problems, optimizing performance, and delivering clean, user-friendly interfaces. Hardworking, motivated, passionate and always eager to learn and grow.
 

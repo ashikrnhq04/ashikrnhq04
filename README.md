@@ -6,18 +6,7 @@ Hi, I’m Ashikur Rahman. With 8+ years of experience, I specialize in custom Sh
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashikrnhq04)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashikrnhq04)
-[![Blogs](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://webixlab.com/blog)
-
----
-
-## 📌 Pinned Projects
-
-| Project | Description |
-|--------|-------------|
-| [Vibe Form](https://github.com/ashikrnhq04/VibeForm) | VibeForm is a modern, multi-step job application form built with React, TypeScript, Vite, and ShadCN UI components. It demonstrates advanced form management, validation, and user experience patterns for complex forms. |
-| [Mocker JSON](https://github.com/ashikrnhq04/API-JSON) | A lightweight, custom-built PHP framework for creating REST APIs with support for posts and products. |
-| [FocusedMind](https://github.com/ashikrnhq04/FocusedMind) | Chrome extension to help users stay focused by tracking distractions and guiding productive sessions. Built in pure JavaScript. |
-| [InstaGallery](https://github.com/ashikrnhq04/instagallery) | A responsive image gallery component built with React, featuring: - Keyboard navigation (ArrowLeft, ArrowRight) - Previous/Next navigation buttons - Optional looping behavior - Clickable image thumbnails - Scrollable thumbnail preview strip - Responsive design and accessibility support |
+[![Portfolio](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devashik.com)
 
 ---
 

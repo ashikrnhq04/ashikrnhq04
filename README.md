@@ -2,7 +2,7 @@
 
 **💻 Full-Stack Developer | Shopify, Webflow Expert | 🛠 Technical Support Engineer **
 
-Web Developer with 5+ years of technical support experience and hands-on development skills across frontend and CMS platforms. Proficient in React, Next.js, TailwindCSS, and PHP with experience in state management (Context API, Redux). Skilled in Shopify Liquid and Webflow templating. Experienced in deploying and maintaining modern web applications using Vercel, cPanel hosting, and CI/CD pipelines. Focused on solving technical problems, optimizing performance, and delivering clean, user-friendly interfaces. Hardworking, motivated, passionate and always eager to learn and grow.
+Hi, I’m Ashikur Rahman. With 8+ years of experience, I specialize in custom Shopify, Webflow, and Frontend solutions that bridge high-fidelity design with deep backend optimization. Leveraging AI-driven workflows, I love working on e-commerce, developing UX that delivers a flawless buying experience, boosts conversion rates, and builds a trusted brand.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashikrnhq04)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashikrnhq04)

@@ -61,7 +61,7 @@ Git • GitHub • Docker • Postman • Figma • Vercel • cPanel • Cloudf
 
 ## 📫 Let's Connect!
 
-- 🌐 Portfolio coming soon  
+- 🌐 [Portfolio](https://devashik.com)
 - 💼 Available for freelance or collaborative projects  
 - 💌 Reach out via [LinkedIn](https://linkedin.com/in/ashikrnhq04) or [GitHub Issues](https://github.com/ashikrnhq04)
 
